@@ -1,0 +1,111 @@
+{
+  "slug": "anim2dclear",
+  "box": 58,
+  "date": "2026-10-16",
+  "title": "Anim2DClear",
+  "question": "How does 2D animation work?",
+  "hook": "Every cartoon is a pile of drawings. Flip a flip-book, fill in a jump between key poses, switch the 12 principles on and off on a bouncing ball, spread cels out under a multiplane camera, and make a mango-headed kid talk.",
+  "thumbText": "HOW 2D ANIMATION WORKS",
+  "field": "film",
+  "minutes": 14,
+  "tags": [
+    "2d animation",
+    "animation",
+    "film making",
+    "flip-book",
+    "keyframes",
+    "in-betweens",
+    "12 principles",
+    "cel animation",
+    "multiplane camera",
+    "lip sync",
+    "three.js"
+  ],
+  "explainer": [
+    {
+      "title": "A flip-book made big",
+      "text": "A cartoon is thousands of still drawings, each a little different, shown one after another. Cinema shows 24 frames a second; most hand-drawn animation holds each drawing for two frames, “on twos”, so one character needs 12 drawings a second, 720 a minute."
+    },
+    {
+      "title": "Keys first, in-betweens after",
+      "text": "The key animator draws the poses that tell the story. An in-betweener fills the gaps, following a timing chart whose ticks bunch near a key where the move slows in or out. A light table, or onion skinning in software, shows the drawings before and after."
+    },
+    {
+      "title": "Twelve principles",
+      "text": "Frank Thomas and Ollie Johnston’s The Illusion of Life (1981) lists the 12 principles: squash and stretch, anticipation, staging, straight ahead and pose to pose, follow-through, slow in and out, arcs, secondary action, timing, exaggeration, solid drawing and appeal. A bouncing ball shows most of them, and its timing shows its weight."
+    },
+    {
+      "title": "Cels, backgrounds and depth",
+      "text": "From 1914, moving characters were inked and painted on clear cels over one painted background. Disney’s multiplane camera (1937) spread the art over levels of glass, so near levels slide faster than far ones when the camera moves: parallax. A model sheet keeps every artist’s drawings on model."
+    },
+    {
+      "title": "Rigs, tweens and curves",
+      "text": "On a computer, you can still draw every frame, or build a cut-out rig of pieces on pivots. You key the poses on a timeline and the computer tweens the in-betweens, spaced by an easing curve: straight is robotic, an S-curve eases in and out."
+    },
+    {
+      "title": "Making drawings talk",
+      "text": "The voice is recorded first and read frame by frame onto an exposure sheet. Each frame gets a mouth shape from a small chart, often a frame or two ahead of the sound. Acting, a head tilt, raised brows or a blink, is what makes it feel alive."
+    }
+  ],
+  "concepts": [
+    {
+      "term": "Frame",
+      "def": "One still picture in a film; cinema shows 24 a second."
+    },
+    {
+      "term": "On twos",
+      "def": "Each drawing held for two frames: 12 drawings a second."
+    },
+    {
+      "term": "Key pose",
+      "def": "A main drawing that shows an important moment of an action."
+    },
+    {
+      "term": "In-between",
+      "def": "A drawing that fills the gap between two keys."
+    },
+    {
+      "term": "Onion skin",
+      "def": "Faint ghosts of the drawings before and after the one you are drawing."
+    },
+    {
+      "term": "Squash and stretch",
+      "def": "Flattening on impact and stretching in fast motion, keeping the same volume."
+    },
+    {
+      "term": "Cel",
+      "def": "A clear sheet with the character inked on the front and painted on the back."
+    },
+    {
+      "term": "Multiplane camera",
+      "def": "Artwork on levels at different distances from the camera, for parallax and depth."
+    },
+    {
+      "term": "Tween",
+      "def": "In-betweens calculated by the computer between two keyframes."
+    },
+    {
+      "term": "Exposure sheet",
+      "def": "A chart with one row per frame, listing sounds, actions and drawings."
+    }
+  ],
+  "links": {},
+  "storage": [
+    {
+      "key": "anim2dclear.v1",
+      "what": "Which chapters you have opened, your best quiz scores, and sound on or off."
+    }
+  ],
+  "credits": [
+    {
+      "name": "three.js",
+      "license": "MIT",
+      "url": "https://threejs.org"
+    },
+    {
+      "name": "Geist, Instrument Serif",
+      "license": "SIL OFL 1.1",
+      "url": "https://openfontlicense.org"
+    }
+  ]
+}

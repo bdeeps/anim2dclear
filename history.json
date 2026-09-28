@@ -1,0 +1,800 @@
+{
+ "title": "The history of 2D animation",
+ "tagline": "190 years from a spinning paper disc to hand-drawn films lit like 3D.",
+ "intro": "Animation began as a toy: discs and flip-books that made drawings move. Film turned the toy into cinema, and pioneers invented the tools that are still on every animator’s desk: keys and in-betweens, pegs, cels and the multiplane camera. Studios in Hollywood, Tokyo and Mumbai made it an art and an industry, and computers took over the ink, the paint and the tweening, but not the drawing.",
+ "eras": [
+  {
+   "id": "optical",
+   "name": "Toys that move",
+   "from": 1830,
+   "to": 1900,
+   "color": "#c49bff",
+   "summary": "Spinning discs, flip-books and Reynaud’s painted strips show that a sequence of drawings can look alive."
+  },
+  {
+   "id": "pioneers",
+   "name": "Pencil pioneers",
+   "from": 1900,
+   "to": 1928,
+   "color": "#ffb547",
+   "summary": "Artists put drawings on film and invent the tools of the trade: keys, pegs, cels, the rotoscope and cut-outs."
+  },
+  {
+   "id": "golden",
+   "name": "The studio age",
+   "from": 1928,
+   "to": 1956,
+   "color": "#ff7a59",
+   "summary": "Sound, colour, the multiplane camera and the first cel-animated feature turn cartoons into big-screen stories."
+  },
+  {
+   "id": "world",
+   "name": "Animation around the world",
+   "from": 1956,
+   "to": 1989,
+   "color": "#5ce1a9",
+   "summary": "India, Japan and many other countries build their own studios, and the craft’s rules are written down."
+  },
+  {
+   "id": "digital",
+   "name": "Pixels and pens",
+   "from": 1989,
+   "to": 2026,
+   "color": "#38bdf8",
+   "summary": "Computers replace cels, tween rigs and power a TV boom, while artists keep drawing by hand."
+  }
+ ],
+ "events": [
+  {
+   "year": 1833,
+   "date": "1832–1833",
+   "era": "optical",
+   "art": "colorwheel",
+   "title": "A spinning disc of drawings",
+   "who": "Joseph Plateau (and, separately, Simon Stampfer)",
+   "where": "Ghent, Belgium, and Vienna, Austria",
+   "country": "Belgium",
+   "text": "Plateau put a ring of drawings on a slotted disc. Spin it in front of a mirror, look through the slits, and the figures move. Stampfer made a similar stroboscopic disc in Vienna at about the same time.",
+   "why": "It proved that a cycle of slightly different drawings, glimpsed one at a time, looks like motion.",
+   "sources": [
+    1
+   ]
+  },
+  {
+   "year": 1868,
+   "date": "18 March 1868",
+   "era": "optical",
+   "art": "storyboard",
+   "title": "The flip-book is patented",
+   "who": "John Barnes Linnett",
+   "where": "Birmingham, England",
+   "country": "United Kingdom",
+   "text": "Linnett patented the “kineograph”, a little book of pictures that seem to move when you flick the pages with your thumb. It is the earliest known flip-book patent.",
+   "why": "Every animator’s first tool is still a pile of paper flipped under the thumb.",
+   "box": "flipbook",
+   "sources": [
+    0
+   ]
+  },
+  {
+   "year": 1892,
+   "date": "28 October 1892",
+   "era": "optical",
+   "art": "projector",
+   "key": true,
+   "title": "Drawn films on a big screen",
+   "who": "Émile Reynaud",
+   "where": "Musée Grévin, Paris",
+   "country": "France",
+   "text": "Reynaud’s Théâtre Optique projected long strips of hand-painted pictures, with a separate background, for paying crowds. Pauvre Pierrot and two other films opened the show, which ran until 1900 and drew over 500,000 visitors.",
+   "why": "It was the first public show of projected animated pictures, three years before the Lumière brothers’ films.",
+   "sources": [
+    2,
+    3
+   ]
+  },
+  {
+   "year": 1908,
+   "date": "17 August 1908",
+   "era": "pioneers",
+   "art": "film",
+   "title": "The first all-drawn cartoon",
+   "who": "Émile Cohl",
+   "where": "Paris",
+   "country": "France",
+   "text": "Fantasmagorie is a stream of shape-shifting stick figures, drawn in black on paper and shot on negative film so it looks like chalk on a blackboard. Cohl made about 700 drawings, each shot twice: animation on twos.",
+   "why": "Film historians call it the first fully hand-drawn animated cartoon.",
+   "box": "flipbook",
+   "sources": [
+    4,
+    35
+   ]
+  },
+  {
+   "year": 1914,
+   "date": "8 February 1914",
+   "era": "pioneers",
+   "art": "keyframe",
+   "key": true,
+   "title": "Gertie the Dinosaur",
+   "who": "Winsor McCay",
+   "where": "Palace Theater, Chicago",
+   "country": "United States",
+   "text": "McCay drew a friendly dinosaur who seemed to obey his commands on stage. He drew the main poses first and the in-betweens after, reused cycles of drawings, and put registration marks on the paper. The film claimed 10,000 drawings, a number historians doubt.",
+   "why": "It gave a cartoon a personality, and its “split system” is the key-and-in-between method still used today.",
+   "box": "keys",
+   "sources": [
+    5,
+    33
+   ]
+  },
+  {
+   "year": 1914,
+   "date": "c. 1914",
+   "era": "pioneers",
+   "art": "studio",
+   "title": "Pegs keep drawings lined up",
+   "who": "Raoul Barré and Bill Nolan",
+   "where": "The Bronx, New York",
+   "country": "United States",
+   "text": "Barré punched holes in the bottom of every sheet and slid them over pegs fixed to the animation table, so each drawing sat exactly over the last. His studio was one of the first set up only to make cartoons.",
+   "why": "Peg bars are still on every animation desk, and digital programs copy them.",
+   "box": "keys",
+   "sources": [
+    10
+   ]
+  },
+  {
+   "year": 1914,
+   "date": "December 1914 (patent granted June 1915)",
+   "era": "pioneers",
+   "art": "palette",
+   "key": true,
+   "title": "The cel is patented",
+   "who": "Earl Hurd (with John R. Bray)",
+   "where": "New York",
+   "country": "United States",
+   "text": "Hurd patented drawing only the moving parts on clear sheets laid over one background painted on card. Early cels were made of cellulose nitrate, later acetate. Ink went on the front and paint on the back.",
+   "why": "Cels meant the background was painted once, not in every drawing. They ruled animation for 75 years.",
+   "box": "cel",
+   "sources": [
+    6,
+    7
+   ]
+  },
+  {
+   "year": 1915,
+   "date": "1915 (patent granted 9 October 1917)",
+   "era": "pioneers",
+   "art": "projector",
+   "title": "The rotoscope: tracing over film",
+   "who": "Max and Dave Fleischer",
+   "where": "New York",
+   "country": "United States",
+   "text": "Max Fleischer projected live-action film, frame by frame, onto glass and traced it. His brother Dave, in a clown suit, performed the moves that became Koko the Clown in the Out of the Inkwell series (from 1918).",
+   "why": "Tracing real movement gave cartoons lifelike motion. Studios still use video reference today.",
+   "sources": [
+    8,
+    9
+   ]
+  },
+  {
+   "year": 1917,
+   "date": "9 November 1917",
+   "era": "pioneers",
+   "art": "scissors",
+   "title": "The first animated feature",
+   "who": "Quirino Cristiani",
+   "where": "Buenos Aires",
+   "country": "Argentina",
+   "text": "El Apóstol was a 70-minute political satire made from cut-out figures, not drawings on paper. No copy survives: the last known print was lost in a fire.",
+   "why": "A feature-length cartoon came from Argentina two decades before Hollywood made one.",
+   "box": "digital",
+   "sources": [
+    11
+   ]
+  },
+  {
+   "year": 1926,
+   "date": "1926",
+   "era": "pioneers",
+   "art": "puppet",
+   "title": "A feature cut from paper",
+   "who": "Lotte Reiniger (with Carl Koch and others)",
+   "where": "Berlin",
+   "country": "Germany",
+   "text": "Reiniger cut her characters from black card with hinged joints, moved them frame by frame over lit glass, and used layers of glass for depth. The Adventures of Prince Achmed took about three years.",
+   "why": "It is the oldest surviving animated feature, and a direct ancestor of today’s cut-out rigs.",
+   "box": "digital",
+   "sources": [
+    12,
+    36
+   ]
+  },
+  {
+   "year": 1928,
+   "date": "18 November 1928",
+   "era": "golden",
+   "art": "microphone",
+   "title": "Cartoons learn to talk",
+   "who": "Walt Disney and Ub Iwerks",
+   "where": "Colony Theatre, New York",
+   "country": "United States",
+   "text": "Steamboat Willie was one of the first cartoons with a fully synchronised soundtrack. Music and effects were planned beat by beat on sheets before the drawings were made.",
+   "why": "Sound meant timing to the frame, and soon lip sync, planned on bar sheets and exposure sheets.",
+   "box": "lipsync",
+   "sources": [
+    13
+   ]
+  },
+  {
+   "year": 1932,
+   "date": "30 July 1932",
+   "era": "golden",
+   "art": "colour",
+   "title": "The first cartoon in full colour",
+   "who": "Walt Disney Productions",
+   "where": "Hollywood",
+   "country": "United States",
+   "text": "Flowers and Trees was the first commercial film in three-strip Technicolor, with cels painted in full colour. It won the first Academy Award for an animated short.",
+   "why": "Colour made ink-and-paint departments, and colour styling, a big part of animation.",
+   "sources": [
+    14
+   ]
+  },
+  {
+   "year": 1937,
+   "date": "5 November 1937",
+   "era": "golden",
+   "art": "lens",
+   "key": true,
+   "title": "The multiplane camera",
+   "who": "William Garity and Disney’s camera department",
+   "where": "Burbank, California",
+   "country": "United States",
+   "text": "Disney’s vertical multiplane camera held up to seven levels of art on glass, with the camera above. Levels moved by different amounts to fake depth. It was first used on the short The Old Mill, which won an Oscar. Reiniger (1920s) and Ub Iwerks (1933) had built earlier versions.",
+   "why": "Parallax between layers gave flat drawings real depth, a trick every 2D program now copies.",
+   "box": "cel",
+   "sources": [
+    15,
+    16
+   ]
+  },
+  {
+   "year": 1937,
+   "date": "21 December 1937",
+   "era": "golden",
+   "art": "cinema",
+   "key": true,
+   "title": "Snow White",
+   "who": "Walt Disney Productions",
+   "where": "Carthay Circle Theatre, Los Angeles",
+   "country": "United States",
+   "text": "Snow White and the Seven Dwarfs was the first cel-animated feature film. It cost about $1.5 million, a huge sum then, and used live-action reference, model sheets and the multiplane camera. Disney won an honorary Oscar: one statuette and seven small ones.",
+   "why": "It proved a drawn film could hold an audience for 80 minutes and make people cry.",
+   "sources": [
+    17,
+    18
+   ]
+  },
+  {
+   "year": 1956,
+   "date": "1956",
+   "era": "world",
+   "art": "studio",
+   "title": "India’s first animation studio",
+   "who": "Films Division, with Disney animator Clair Weeks",
+   "where": "Bombay (Mumbai)",
+   "country": "India",
+   "text": "The Government of India invited Clair Weeks to set up a Cartoon Film Unit at Films Division and train Indian animators. Among the first recruits was a young Ram Mohan.",
+   "why": "It trained the first generation of Indian studio animators.",
+   "sources": [
+    23,
+    20
+   ]
+  },
+  {
+   "year": 1957,
+   "date": "1957",
+   "era": "world",
+   "art": "leaf",
+   "title": "The Banyan Deer",
+   "who": "Cartoon Film Unit, Films Division",
+   "where": "Bombay (Mumbai)",
+   "country": "India",
+   "text": "The first film by the newly trained team was The Banyan Deer. Its title points to an old Indian Jataka tale about a deer king who offers his life to save another deer.",
+   "why": "India’s studio animation began with an Indian story.",
+   "sources": [
+    23,
+    20
+   ]
+  },
+  {
+   "year": 1972,
+   "date": "1972",
+   "era": "world",
+   "art": "person",
+   "key": true,
+   "title": "The father of Indian animation",
+   "who": "Ram Mohan",
+   "where": "Mumbai",
+   "country": "India",
+   "text": "After animating at Films Division from 1956, Ram Mohan founded Ram Mohan Biographics in 1972. He made films, title sequences and ads, taught generations of animators, and co-directed Ramayana: The Legend of Prince Rama (1993) with Japanese partners. He received the Padma Shri.",
+   "why": "He built Indian animation as an industry and a craft, and is widely called its father.",
+   "sources": [
+    20,
+    21,
+    22,
+    34
+   ]
+  },
+  {
+   "year": 1974,
+   "date": "1974",
+   "era": "world",
+   "art": "colorwheel",
+   "title": "Ek Anek Aur Ekta",
+   "who": "Vijaya Mulay and Bhimsain, Films Division",
+   "where": "Mumbai",
+   "country": "India",
+   "text": "This short film about birds and mice working together was shown again and again on Doordarshan. It won the National Film Award for Best Educational Film.",
+   "why": "It made animation part of growing up for a generation of Indian children.",
+   "sources": [
+    24
+   ]
+  },
+  {
+   "year": 1981,
+   "date": "1981",
+   "era": "world",
+   "art": "quill",
+   "key": true,
+   "title": "The Illusion of Life",
+   "who": "Frank Thomas and Ollie Johnston",
+   "where": "New York (Abbeville Press)",
+   "country": "United States",
+   "text": "Two of Disney’s senior animators wrote down the 12 principles of animation: squash and stretch, anticipation, staging, straight ahead and pose to pose, follow-through, slow in and out, arcs, secondary action, timing, exaggeration, solid drawing and appeal.",
+   "why": "It became the “bible” of animation, taught to hand-drawn and 3D animators alike.",
+   "box": "principles",
+   "sources": [
+    19
+   ]
+  },
+  {
+   "year": 1985,
+   "date": "15 June 1985",
+   "era": "world",
+   "art": "studio",
+   "key": true,
+   "title": "Studio Ghibli is founded",
+   "who": "Hayao Miyazaki, Isao Takahata, Toshio Suzuki and Yasuyoshi Tokuma",
+   "where": "Koganei, Tokyo",
+   "country": "Japan",
+   "text": "Ghibli became famous for hand-drawn films with painted backgrounds and careful acting, from My Neighbor Totoro to Spirited Away, while using computers only sparingly.",
+   "why": "It showed the world that hand-drawn animation could be art for every age.",
+   "sources": [
+    26
+   ]
+  },
+  {
+   "year": 1990,
+   "date": "1989–1990",
+   "era": "digital",
+   "art": "digital",
+   "key": true,
+   "title": "Cels go digital",
+   "who": "Disney and Pixar (CAPS)",
+   "where": "Burbank and Richmond, California",
+   "country": "United States",
+   "text": "The Computer Animation Production System scanned pencil drawings and coloured them on screen, with digital multiplane moves. It was used for one shot of The Little Mermaid (1989), then for all of The Rescuers Down Under (1990). Disney stopped using cels.",
+   "why": "Digital ink and paint ended the cel era and won a Scientific and Engineering Academy Award in 1992.",
+   "box": "digital",
+   "sources": [
+    27,
+    6
+   ]
+  },
+  {
+   "year": 1993,
+   "date": "1993",
+   "era": "digital",
+   "art": "scroll",
+   "title": "An Indo-Japanese Ramayana",
+   "who": "Yugo Sako, Koichi Sasaki and Ram Mohan",
+   "where": "Tokyo and Mumbai",
+   "country": "Japan and India",
+   "text": "About 450 artists worked on Ramayana: The Legend of Prince Rama, with Indian animators guiding their Japanese colleagues on costumes and customs.",
+   "why": "A hand-drawn epic made by two countries together.",
+   "sources": [
+    25
+   ]
+  },
+  {
+   "year": 1994,
+   "date": "1994",
+   "era": "digital",
+   "art": "stylus",
+   "title": "Toon Boom is founded",
+   "who": "Toon Boom Animation",
+   "where": "Montreal",
+   "country": "Canada",
+   "text": "Toon Boom grew into the maker of Harmony, software for drawing, rigging and compositing 2D animation. Its tools won Primetime Engineering Emmy Awards in 2005 and 2012.",
+   "why": "Much of the world’s TV animation, including many Indian series, is now made in software like this.",
+   "box": "digital",
+   "sources": [
+    28
+   ]
+  },
+  {
+   "year": 1996,
+   "date": "May–December 1996",
+   "era": "digital",
+   "art": "pixels",
+   "title": "Vector tweens for everyone",
+   "who": "FutureWave Software, then Macromedia",
+   "where": "San Diego and San Francisco, California",
+   "country": "United States",
+   "text": "FutureSplash Animator let anyone key vector shapes and let the computer tween them. Macromedia bought it and named it Flash; Adobe renamed it Animate in 2016.",
+   "why": "Cheap cut-out and tweened animation spread from the web to television.",
+   "box": "digital",
+   "sources": [
+    29
+   ]
+  },
+  {
+   "year": 2008,
+   "date": "6 April 2008",
+   "era": "digital",
+   "art": "tv",
+   "key": true,
+   "title": "Chhota Bheem and India’s TV boom",
+   "who": "Rajiv Chilaka, Green Gold Animation",
+   "where": "Hyderabad",
+   "country": "India",
+   "text": "Chhota Bheem premiered on Pogo and became one of India’s most popular children’s shows, with films, games and merchandise. Indian channels began to commission their own series instead of only buying foreign ones.",
+   "why": "It showed that Indian studios could create hit characters of their own, not only work for others.",
+   "sources": [
+    31,
+    23
+   ]
+  },
+  {
+   "year": 2016,
+   "date": "26 March 2016",
+   "era": "digital",
+   "art": "chip",
+   "title": "Ghibli’s software goes open source",
+   "who": "Dwango, with Studio Ghibli",
+   "where": "Tokyo",
+   "country": "Japan",
+   "text": "Toonz, first made in Italy in 1993 and customised for Studio Ghibli, was released free as OpenToonz. Ghibli had used it on films such as Princess Mononoke and Spirited Away.",
+   "why": "Studio-grade 2D tools became free for anyone to learn on.",
+   "sources": [
+    30
+   ]
+  },
+  {
+   "year": 2019,
+   "date": "8 November 2019",
+   "era": "digital",
+   "art": "spotlight",
+   "key": true,
+   "title": "Klaus: hand-drawn, lit like 3D",
+   "who": "Sergio Pablos, The SPA Studios",
+   "where": "Madrid",
+   "country": "Spain",
+   "text": "Klaus was drawn by hand, then given soft, volumetric light and texture with new tools, asking how 2D might have grown if studios had not switched to CGI. It won the BAFTA for best animated film.",
+   "why": "It proved hand-drawn features can still look new in the digital age.",
+   "sources": [
+    32
+   ]
+  }
+ ],
+ "firsts": [
+  {
+   "label": "Flip-book patent",
+   "value": "1868",
+   "who": "John Barnes Linnett, England"
+  },
+  {
+   "label": "Projected animation show",
+   "value": "1892",
+   "who": "Émile Reynaud, France"
+  },
+  {
+   "label": "All-drawn animated cartoon",
+   "value": "1908",
+   "who": "Émile Cohl, France"
+  },
+  {
+   "label": "Cel animation patent",
+   "value": "1914–15",
+   "who": "Earl Hurd, USA"
+  },
+  {
+   "label": "Animated feature (lost)",
+   "value": "1917",
+   "who": "Quirino Cristiani, Argentina"
+  },
+  {
+   "label": "Oldest surviving animated feature",
+   "value": "1926",
+   "who": "Lotte Reiniger, Germany"
+  },
+  {
+   "label": "Cel-animated feature",
+   "value": "1937",
+   "who": "Snow White, Disney, USA"
+  },
+  {
+   "label": "Government animation unit in India",
+   "value": "1956",
+   "who": "Films Division, Mumbai"
+  },
+  {
+   "label": "Fully digital 2D feature",
+   "value": "1990",
+   "who": "The Rescuers Down Under, Disney and Pixar"
+  }
+ ],
+ "people": [
+  {
+   "name": "Émile Reynaud",
+   "life": "1844 – 1918",
+   "role": "Inventor and animator",
+   "from": "France",
+   "note": "Projected long hand-painted animated films at the Musée Grévin from 1892."
+  },
+  {
+   "name": "Émile Cohl",
+   "life": "1857 – 1938",
+   "role": "Cartoonist and animator",
+   "from": "France",
+   "note": "Made Fantasmagorie (1908), the first fully drawn animated cartoon."
+  },
+  {
+   "name": "Winsor McCay",
+   "life": "c. 1867 – 1934",
+   "role": "Cartoonist and animator",
+   "from": "USA",
+   "note": "Drew Gertie the Dinosaur and worked out keys and in-betweens."
+  },
+  {
+   "name": "Earl Hurd",
+   "life": "1880 – 1940",
+   "role": "Animator and inventor",
+   "from": "USA",
+   "note": "Patented drawing characters on clear cels over one background."
+  },
+  {
+   "name": "Max Fleischer",
+   "life": "1883 – 1972",
+   "role": "Animator and inventor",
+   "from": "Austria-Hungary and USA",
+   "note": "Invented the rotoscope for tracing live action."
+  },
+  {
+   "name": "Lotte Reiniger",
+   "life": "1899 – 1981",
+   "role": "Silhouette animator",
+   "from": "Germany",
+   "note": "Made the oldest surviving animated feature from hinged paper cut-outs."
+  },
+  {
+   "name": "Frank Thomas and Ollie Johnston",
+   "life": "1912 – 2004 and 1912 – 2008",
+   "role": "Animators and authors",
+   "from": "USA",
+   "note": "Wrote down the 12 principles in The Illusion of Life (1981)."
+  },
+  {
+   "name": "Ram Mohan",
+   "life": "1931 – 2019",
+   "role": "Animator, designer and teacher",
+   "from": "India",
+   "note": "Joined Films Division in 1956 and is called the father of Indian animation."
+  },
+  {
+   "name": "Hayao Miyazaki",
+   "life": "born 1941",
+   "role": "Director and animator",
+   "from": "Japan",
+   "note": "Co-founded Studio Ghibli and champions hand-drawn animation."
+  }
+ ],
+ "series": [],
+ "facts": [
+  "Émile Cohl’s Fantasmagorie (1908) already used animation on twos: about 700 drawings, each filmed twice.",
+  "Gertie the Dinosaur’s title cards boasted of 10,000 drawings, but historians think the real number may be different.",
+  "Early cels were made of cellulose nitrate, the same flammable material as early film.",
+  "Reynaud’s Théâtre Optique shows ran from 1892 to 1900 and were seen by more than half a million people.",
+  "Walt Disney’s honorary Oscar for Snow White was one full-size statuette and seven small ones."
+ ],
+ "sources": [
+  {
+   "title": "Flip book",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Flip_book"
+  },
+  {
+   "title": "Phenakistiscope",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Phenakistiscope"
+  },
+  {
+   "title": "Théâtre Optique",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Th%C3%A9%C3%A2tre_Optique"
+  },
+  {
+   "title": "Charles-Émile Reynaud",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Charles-%C3%89mile_Reynaud"
+  },
+  {
+   "title": "Fantasmagorie (1908 film)",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Fantasmagorie_(1908_film)"
+  },
+  {
+   "title": "Gertie the Dinosaur",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Gertie_the_Dinosaur"
+  },
+  {
+   "title": "Cel",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Cel"
+  },
+  {
+   "title": "US Patent 1,143,542: Process of and apparatus for producing moving pictures (Earl Hurd)",
+   "publisher": "Google Patents",
+   "url": "https://patents.google.com/patent/US1143542A/en"
+  },
+  {
+   "title": "Rotoscoping",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Rotoscoping"
+  },
+  {
+   "title": "US Patent 1,242,674: Method of producing moving-picture cartoons (Max Fleischer)",
+   "publisher": "Google Patents",
+   "url": "https://patents.google.com/patent/US1242674A/en"
+  },
+  {
+   "title": "Raoul Barré",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Raoul_Barr%C3%A9"
+  },
+  {
+   "title": "El Apóstol",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/El_Ap%C3%B3stol"
+  },
+  {
+   "title": "The Adventures of Prince Achmed",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/The_Adventures_of_Prince_Achmed"
+  },
+  {
+   "title": "Steamboat Willie",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Steamboat_Willie"
+  },
+  {
+   "title": "Flowers and Trees",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Flowers_and_Trees"
+  },
+  {
+   "title": "Multiplane camera",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Multiplane_camera"
+  },
+  {
+   "title": "The Old Mill",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/The_Old_Mill"
+  },
+  {
+   "title": "Snow White and the Seven Dwarfs (1937 film)",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Snow_White_and_the_Seven_Dwarfs_(1937_film)"
+  },
+  {
+   "title": "Snow White and the Seven Dwarfs",
+   "publisher": "Encyclopaedia Britannica",
+   "url": "https://www.britannica.com/topic/Snow-White-and-the-Seven-Dwarfs-film-1937"
+  },
+  {
+   "title": "Twelve basic principles of animation",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Twelve_basic_principles_of_animation"
+  },
+  {
+   "title": "Ram Mohan",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Ram_Mohan"
+  },
+  {
+   "title": "Tireless and peerless: the debt that Indian animation owes to Ram Mohan",
+   "publisher": "Scroll.in",
+   "url": "https://scroll.in/reel/1005269/tireless-and-peerless-the-debt-that-indian-animation-owes-to-ram-mohan"
+  },
+  {
+   "title": "Ram Mohan, Father of Indian Animation, Dies at 88",
+   "publisher": "Animation Magazine",
+   "url": "https://www.animationmagazine.net/2019/10/ram-mohan-father-of-indian-animation-dies-at-88/"
+  },
+  {
+   "title": "Animation industry in India",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Animation_industry_in_India"
+  },
+  {
+   "title": "Ek Anek Aur Ekta",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Ek_Anek_Aur_Ekta"
+  },
+  {
+   "title": "Ramayana: The Legend of Prince Rama",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Ramayana:_The_Legend_of_Prince_Rama"
+  },
+  {
+   "title": "Studio Ghibli",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Studio_Ghibli"
+  },
+  {
+   "title": "Computer Animation Production System",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Computer_Animation_Production_System"
+  },
+  {
+   "title": "Toon Boom Animation",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Toon_Boom_Animation"
+  },
+  {
+   "title": "Adobe Animate",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Adobe_Animate"
+  },
+  {
+   "title": "OpenToonz",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/OpenToonz"
+  },
+  {
+   "title": "Chhota Bheem",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Chhota_Bheem"
+  },
+  {
+   "title": "Klaus (film)",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Klaus_(film)"
+  },
+  {
+   "title": "Winsor McCay",
+   "publisher": "Encyclopaedia Britannica",
+   "url": "https://www.britannica.com/biography/Winsor-McCay"
+  },
+  {
+   "title": "Ram Mohan and RM-USL: India's Change Agents of Animation",
+   "publisher": "Animation World Network",
+   "url": "https://www.awn.com/animationworld/ram-mohan-and-rm-usl-indias-change-agents-animation"
+  },
+  {
+   "title": "Émile Cohl",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/%C3%89mile_Cohl"
+  },
+  {
+   "title": "Lotte Reiniger",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Lotte_Reiniger"
+  }
+ ]
+}
